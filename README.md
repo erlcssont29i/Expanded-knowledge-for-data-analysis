@@ -13,17 +13,44 @@
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)
 - [从数据仓库到大数据平台再到数据中台（内附13张架构图）](https://mp.weixin.qq.com/s/ys49a3wiu266q7q82przTg)
 
-## 數據應用
- ### 指標
- 
- ###
+## 數據知識
+ ### 指標與可視化
+- [产品|作为数据产品经理，该如何搭建数据指标体系？](https://zhuanlan.zhihu.com/p/44687337)
+- [腾讯QQ：产品指标体系如何搭建](http://www.199it.com/archives/743217.html)
+- [腾讯QQ：数据体系建设之路 ](http://www.199it.com/archives/743254.html)
+- [【干货】基于电商平台的数据分析基本指标体系](https://mp.weixin.qq.com/s/ukTmoK_fguG8_x9Q4C9ibw)
+- [数据分析体系是什么？该怎么搭建？](https://mp.weixin.qq.com/s/_CB_KEQ8wCpwarfKGS4_OA)
+- [如何做好一个BI项目的规划和需求定义？](https://mp.weixin.qq.com/s/y3SuF4e-A6anQmW7Mn2b0w)
+- [数据分析体系是什么？该怎么搭建？](https://mp.weixin.qq.com/s/_CB_KEQ8wCpwarfKGS4_OA)
+ - [深度長文｜數據可視化的秘密](https://www.bfa.com.tw/blog/data-visualization-detail)
+ -[推荐三款开源的BI报表分析和数据可视化工具](https://www.afenxi.com/65757.html)
  
  ### 埋點
  - [前端监控和前端埋点方案设计](https://segmentfault.com/a/1190000015864670)
  - [深度揭秘用户数据埋点采集技术 | 您的行踪已暴露](http://api.woshipm.com/data-analysis/3195604.html?sf=mobile&from=timeline&isappinstalled=0)
  - [想看埋点数据？产品经理有必要了解的埋点知识](https://mp.weixin.qq.com/s/djKo2uBDPUKADXX0wwmIDA)
  - [数据埋点是什么？设置埋点的意义是什么？](https://www.zhihu.com/question/36411025/answer/562103367?utm_source=wechat_session&utm_medium=social&utm_oi=812991846207868928)
+ - [如何准确的标识用户 · 神策分析使用手册](https://manual.sensorsdata.cn/sa/latest/标识用户-7540285.html)
+ - [数据模型 · 神策分析使用手册](https://manual.sensorsdata.cn/sa/latest/page-1573771.html)
+ - [开源 BI，我最终选择了 Metabase](https://juejin.im/post/6844904200728641550)
  
+ ### 業務應用
+ - [腾讯QQ大数据 ：从“增长黑客”谈数据驱动的方法](http://www.199it.com/archives/743270.html)
+ - [内容APP如何给用户打标签&内容推送？](http://www.woshipm.com/pd/3214800.html)
+ - [神策数据杜明翰：打造趁手、好用的标签&用户画像系统](http://baijiahao.baidu.com/s?id=1638778544586181095&wfr=spider&for=pc)
+ - [百万标签发布了，这是怎样一种体验？](https://mp.weixin.qq.com/s?__biz=MzIwNDI0ODY1OA==&mid=2655929812&idx=1&sn=915d950405758a98cd0e4b098b2e88ef&chksm=8d79e6e9ba0e6fff48bf73966a648f3fdef4a87a2e18d0bd8e0a954015b46a0c0205004d423f&scene=21#wechat_redirect)
+ - [如何有效推进百万标签库的治理？](https://www.afenxi.com/78491.html)
+ - [DMP用户画像使用指南](https://mp.weixin.qq.com/s/DiUmT4HUXUIm8AVqsE9WCg)
+ - [如何打造可以支撑N条产品线的标签平台](https://mp.weixin.qq.com/s/TX6V1dT17Ikiba4xpThXUA)
+ - [第一个辟谣双黄连，为什么是腾讯医典？](https://mp.weixin.qq.com/s/4q6D5z4Uk5aNf0zzcteLcQ)
+ - [如何在企业中从0-1建立一个数据/商业分析部门？](https://mp.weixin.qq.com/s/ADblJqYIaiDRTwE2IZWulg)
+ - [产品人如何向女票解释，淘宝push的个性化推荐](https://www.cnwebe.com/articles/80704.html)
+ - [荐读 | 用户画像](https://mp.weixin.qq.com/s/aaT_jj5fBVH6FuqLB5zlIw)
+ - [如何精准推送不垃圾](https://mp.weixin.qq.com/s/Qe3HRvrbYlqdmnJ4Sgc6fg)
+[- 用户画像标签体系包括哪些维度？有哪些应用场景？（附完整导图）](https://mp.weixin.qq.com/s/FrtzMfugEo83J96-2-xpwQ)
+- [用户画像如何从搭建到应用实战？](http://www.yoozai.com/archives/15332)
+- [数据分析成果落地难？你需要注意这五个问题](https://mp.weixin.qq.com/s/2MftQhsfuIkzaoGAbvrndg)
+- [“数据主义者”们的毒鸡汤](https://mp.weixin.qq.com/s/_8L8B7xvt_fe6GjQdZhylg)
  
  
  ## 職涯
@@ -46,7 +73,8 @@
 - [一个前腾讯员工自述：腾讯6年，我的月薪没有7万，但收获不止薪水](http://api.woshipm.com/zhichang/2350853.html?sf=mobile)
 - [那些厉害的人，都是怎么走出迷茫的？](https://mp.weixin.qq.com/s/c2DFgtRsdfOVCT2YsCmqPg)
 - [真正的高手，是如何判断趋势的？](https://mp.weixin.qq.com/s/VZGQ1jTwwIK-jmSPiSrf_w)
-
+- [15种方法让你在工作中变得不可或缺](https://mp.weixin.qq.com/s/UA2p-9EB5jP0jfAEKutuiQ)
+[为什么技术同学需要有更多的业务思考？](https://mp.weixin.qq.com/s/cbGjoI9HW0E1dKFIbGDQFw)
 
 
 ## 互聯網風雲
@@ -61,6 +89,6 @@
 - [刘强东第二次“二次创业”](https://mp.weixin.qq.com/s/MgwKCwKkiyLRONFW2Jtm3A)
 - [5000字一文读懂人人网与Facebook的前世今生](https://mp.weixin.qq.com/s/WDU-6cU51LofnPIr9zTp_Q)
 - [字节跳动空降COO, Kevin Mayer什么来路？](https://mp.weixin.qq.com/s/QPNcPkYNtLni-AyfsJaNHg)
-
+- [大佬们的35岁](https://mp.weixin.qq.com/s/w2kvHWoFxMW24bSz6QmXLA)
 
 
