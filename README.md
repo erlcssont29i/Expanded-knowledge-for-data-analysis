@@ -17,7 +17,6 @@
 - [腾讯、百度、小米等7家互联网各大厂的中台建设怎么样了？](https://mp.weixin.qq.com/s?__biz=MzI5OTk5OTM2Mw==&mid=2247498834&amp;idx=1&amp;sn=c64581e4ffbb55e38ba3b9c86a7466d0&source=41#wechat_redirect)
 - [数据中台VS业务中台、数据中台VS数据仓库，到底有什么区别？](https://mp.weixin.qq.com/s?__biz=MzI5OTk5OTM2Mw==&mid=2247498772&amp;idx=1&amp;sn=22cfa162c17e00f864b988b03e552bc1&source=41#wechat_redirect)
 - [数据库的前世今生](https://mp.weixin.qq.com/s/y1Q9S7QZjL4zbxuFzeTVBQ)
-- [有赞埋点实践](https://tech.youzan.com/track-1/)
 - [数据清洗(2)-checklist规范数据清洗的流程](https://mp.weixin.qq.com/s/9FDZF632dxn3vPmeC-wz1A)
 - [大数据存储的进化史：从 RAID 到 Hadoop Hdfs](https://mp.weixin.qq.com/s/46uTHhSPhfhIaeTAaYKYBg)
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)
@@ -36,6 +35,7 @@
  -[推荐三款开源的BI报表分析和数据可视化工具](https://www.afenxi.com/65757.html)
  
  ### 埋點
+ - [有赞埋点实践](https://tech.youzan.com/track-1/)
  - [前端监控和前端埋点方案设计](https://segmentfault.com/a/1190000015864670)
  - [深度揭秘用户数据埋点采集技术 | 您的行踪已暴露](http://api.woshipm.com/data-analysis/3195604.html?sf=mobile&from=timeline&isappinstalled=0)
  - [想看埋点数据？产品经理有必要了解的埋点知识](https://mp.weixin.qq.com/s/djKo2uBDPUKADXX0wwmIDA)
