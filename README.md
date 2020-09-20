@@ -30,7 +30,6 @@
 - [【干货】基于电商平台的数据分析基本指标体系](https://mp.weixin.qq.com/s/ukTmoK_fguG8_x9Q4C9ibw)
 - [数据分析体系是什么？该怎么搭建？](https://mp.weixin.qq.com/s/_CB_KEQ8wCpwarfKGS4_OA)
 - [如何做好一个BI项目的规划和需求定义？](https://mp.weixin.qq.com/s/y3SuF4e-A6anQmW7Mn2b0w)
-- [数据分析体系是什么？该怎么搭建？](https://mp.weixin.qq.com/s/_CB_KEQ8wCpwarfKGS4_OA)
  - [深度長文｜數據可視化的秘密](https://www.bfa.com.tw/blog/data-visualization-detail)
  -[推荐三款开源的BI报表分析和数据可视化工具](https://www.afenxi.com/65757.html)
 - [开源 BI，我最终选择了 Metabase](https://juejin.im/post/6844904200728641550)
