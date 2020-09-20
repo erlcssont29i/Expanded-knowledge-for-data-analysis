@@ -33,6 +33,7 @@
 - [数据分析体系是什么？该怎么搭建？](https://mp.weixin.qq.com/s/_CB_KEQ8wCpwarfKGS4_OA)
  - [深度長文｜數據可視化的秘密](https://www.bfa.com.tw/blog/data-visualization-detail)
  -[推荐三款开源的BI报表分析和数据可视化工具](https://www.afenxi.com/65757.html)
+- [开源 BI，我最终选择了 Metabase](https://juejin.im/post/6844904200728641550)
  
  ### 埋點
  - [有赞埋点实践](https://tech.youzan.com/track-1/)
@@ -42,7 +43,6 @@
  - [数据埋点是什么？设置埋点的意义是什么？](https://www.zhihu.com/question/36411025/answer/562103367?utm_source=wechat_session&utm_medium=social&utm_oi=812991846207868928)
  - [如何准确的标识用户 · 神策分析使用手册](https://manual.sensorsdata.cn/sa/latest/标识用户-7540285.html)
  - [数据模型 · 神策分析使用手册](https://manual.sensorsdata.cn/sa/latest/page-1573771.html)
- - [开源 BI，我最终选择了 Metabase](https://juejin.im/post/6844904200728641550)
  
  ### 業務應用
  - [腾讯QQ大数据 ：从“增长黑客”谈数据驱动的方法](http://www.199it.com/archives/743270.html)
