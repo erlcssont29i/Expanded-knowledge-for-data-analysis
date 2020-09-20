@@ -1,4 +1,4 @@
-# Additional-learning-resources-for-data-analysis
+# Expanded-knowledge-for-data-analysis
 
 從事數據分析，除了分析技術外，我們也必須盡可能的了解所涉及的數據上下游：
 1. 理解被我們inpute的數據怎麼來的？後端是怎麼處理的？技術是怎麼實現的？數據是怎麼管理的？也就是數據的生產過程；
