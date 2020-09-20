@@ -83,7 +83,7 @@
 [为什么技术同学需要有更多的业务思考？](https://mp.weixin.qq.com/s/cbGjoI9HW0E1dKFIbGDQFw)
 
 
-## 互聯網風雲
+## 互聯網人物誌
 - [阿里云这群疯子](http://www.woshipm.com/it/1520333.html)
 - [张小龙的四小时演讲没有用哪些词？](https://mp.weixin.qq.com/s/hT45I5TsNv18AAfNsx81PA)
 - [永远跟用户在一起 —— 张小龙 4 小时现场分享 2 万字原汁原味呈现](https://mp.weixin.qq.com/s?__biz=MzU4NDc3NzUyMw==&mid=2247487778&amp;idx=1&amp;sn=29a40f10dbf2d4f5e1a7e14fc4a36851&source=41#wechat_redirect)
