@@ -10,7 +10,7 @@
 
 update time | comment 
 --- | ---
-2021-05-25 | 大數據新增4篇、埋點新增4篇、業務應用增加8篇 職涯新增9篇
+2021-05-25 | 新增28篇，其中大數據新增5篇、埋點新增4篇、業務應用增加8篇 職涯新增11篇
 
 ## 大數據
 - [有赞数据仓库元数据系统实践](https://mp.weixin.qq.com/s/JqNAKjG2Ug497YMfgtad1A)
@@ -27,6 +27,7 @@ update time | comment
 - [数据分析引擎黑马 ClickHouse 最新技术的实践与应用](https://mp.weixin.qq.com/s/eJxR__fNFavBnI8sUJVnOQ)
 - [通透！剖析数据仓库的谜底|学习笔记](https://mp.weixin.qq.com/s/9b3NGQ6N86Zk7Zt_OFBFTg)
 - [Apache kudu在网易的实践](https://mp.weixin.qq.com/s/GgBnuB7r4G3Px7YHDARutQ)
+- [关于数据中台的深度思考与总结（干干货）](https://mp.weixin.qq.com/s/zM_RxY65xfHp0d-26dWxvQ)
 
 ## 數據知識
  ### 指標與可視化
@@ -112,6 +113,8 @@ update time | comment
 - [工作 10 年后转行程序员，如今 35+ 岁并不焦虑！](https://mp.weixin.qq.com/s/hlTBU1UX590q67w4rK7AOQ)
 - [陆奇最新演讲：2021年，程序员们应该如何提升自我？](https://mp.weixin.qq.com/s/EEKHkLZTrp6SE3G7xQXb)EA
 - [全面认识数据产品经理](https://mp.weixin.qq.com/s/asVS1Aj8AOK32zcFUX5TJA)
+- [我30岁当上高管的秘诀：可能是向上管理做得好](https://mp.weixin.qq.com/s/29o_bjvWJICB-goaRyn-UA)
+- [从2K到大厂Offer，外包数仓逆袭需贵人相助！](https://mp.weixin.qq.com/s/rUU55LWjJe524G9_bX785g)
 
 
 
