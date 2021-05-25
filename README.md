@@ -1,14 +1,16 @@
 # Expanded-knowledge-for-data-analysis
 
-從事數據分析，除了分析技術外，我們也必須盡可能的了解所涉及的數據上下游：
-- 理解被我們inpute的數據怎麼來的？後端是怎麼處理的？技術是怎麼實現的？數據是怎麼管理的？也就是數據的生產過程；
-- 足夠了解業務，包含業務邏輯、交付方式、開發時程、實現架構等，讓產出發揮出價值。
+從事數據分析，除了分析技術外，我們也必須盡可能的了解所涉及的上下游。被我們inpute的數據怎麼來的？後端是怎麼處理的？技術是怎麼實現的？數據是怎麼管理的？也就是**數據的生產**，盡量貼近業務，能更進一步思考開發時程、實現架構、乃至產品化等，讓數據發揮出價值，也就是**數據的消費**。
 
-這些知識外面書籍相對較少，大多內容是碎片化的分散在各blog，因此把近年個人在學習工作中發現的一些不錯的個人博客或者大佬們寫的文做了整理，記錄大佬們分享的知識點。方便review也分享出來，後續會不斷更新。
+這些知識外面書籍相對較少，大多是碎片化的，因此把近年在學習工作中看到不錯內容做了整理，記錄大佬們分享的知識點。方便review也分享出來，後續會不斷更新。
 1. 大數據：關注大數據平台，例如hadoop、數據治理、數倉設計、數據中台等內容
 2. 數據知識：偏向數據賦能的**泛知識**，例如數據體系、數據產品、用戶畫像等內容
 3. 職涯：站在他人肩膀上，分享數據從業者在職場上的心路歷程
 4. 互聯網人物誌：互聯網人物的浪漫故事
+
+update time | comment 
+--- | ---
+2021-05-25 | 大數據新增4篇、埋點新增4篇、業務應用增加8篇 職涯新增9篇
 
 ## 大數據
 - [有赞数据仓库元数据系统实践](https://mp.weixin.qq.com/s/JqNAKjG2Ug497YMfgtad1A)
@@ -21,6 +23,10 @@
 - [大数据存储的进化史：从 RAID 到 Hadoop Hdfs](https://mp.weixin.qq.com/s/46uTHhSPhfhIaeTAaYKYBg)
 - [美团配送数据治理实践](https://tech.meituan.com/2020/03/12/delivery-data-governance.html)
 - [从数据仓库到大数据平台再到数据中台（内附13张架构图）](https://mp.weixin.qq.com/s/ys49a3wiu266q7q82przTg)
+- [Hive千亿级数据倾斜解决方案](https://mp.weixin.qq.com/s/tg0T2gwJCl8ZvRO47HJywA)
+- [数据分析引擎黑马 ClickHouse 最新技术的实践与应用](https://mp.weixin.qq.com/s/eJxR__fNFavBnI8sUJVnOQ)
+- [通透！剖析数据仓库的谜底|学习笔记](https://mp.weixin.qq.com/s/9b3NGQ6N86Zk7Zt_OFBFTg)
+- [Apache kudu在网易的实践](https://mp.weixin.qq.com/s/GgBnuB7r4G3Px7YHDARutQ)
 
 ## 數據知識
  ### 指標與可視化
@@ -42,6 +48,10 @@
  - [数据埋点是什么？设置埋点的意义是什么？](https://www.zhihu.com/question/36411025/answer/562103367?utm_source=wechat_session&utm_medium=social&utm_oi=812991846207868928)
  - [如何准确的标识用户 · 神策分析使用手册](https://manual.sensorsdata.cn/sa/latest/标识用户-7540285.html)
  - [数据模型 · 神策分析使用手册](https://manual.sensorsdata.cn/sa/latest/page-1573771.html)
+ - [数据要埋点](https://mp.weixin.qq.com/s/kjpnA-XaeHjGCbMToLhiYg)
+ - [数据人该知道的埋点体系（一）](https://mp.weixin.qq.com/s/GqOF61qvlgEQVI9oARVPfQ)
+ - [日志异常检测初步实践与探索](https://mp.weixin.qq.com/s/ame9XL218FK1Du_by3_L5A)
+ - [数据中台实战（一）：以B2B电商亿订为例谈数据埋点（产品经理视角）](https://mp.weixin.qq.com/s/3wpX1mEyNJ1y3zxESpsEYQ)
  
  ### 業務應用
  - [腾讯QQ大数据 ：从“增长黑客”谈数据驱动的方法](http://www.199it.com/archives/743270.html)
@@ -56,10 +66,19 @@
  - [产品人如何向女票解释，淘宝push的个性化推荐](https://www.cnwebe.com/articles/80704.html)
  - [荐读 | 用户画像](https://mp.weixin.qq.com/s/aaT_jj5fBVH6FuqLB5zlIw)
  - [如何精准推送不垃圾](https://mp.weixin.qq.com/s/Qe3HRvrbYlqdmnJ4Sgc6fg)
-[- 用户画像标签体系包括哪些维度？有哪些应用场景？（附完整导图）](https://mp.weixin.qq.com/s/FrtzMfugEo83J96-2-xpwQ)
-- [用户画像如何从搭建到应用实战？](http://www.yoozai.com/archives/15332)
+ - [用户画像标签体系包括哪些维度？有哪些应用场景？（附完整导图）](https://mp.weixin.qq.com/s/FrtzMfugEo83J96-2-xpwQ)
+ - [用户画像如何从搭建到应用实战？](http://www.yoozai.com/archives/15332)
 - [数据分析成果落地难？你需要注意这五个问题](https://mp.weixin.qq.com/s/2MftQhsfuIkzaoGAbvrndg)
 - [“数据主义者”们的毒鸡汤](https://mp.weixin.qq.com/s/_8L8B7xvt_fe6GjQdZhylg)
+- [我在字节看到的AB实验](https://mp.weixin.qq.com/s/2Ib_AxipX6bd6gkVAOAljQ)
+- [思考产品架构的4个视角：业务、场景、数据/功能、实现](https://mp.weixin.qq.com/s/I-f-kX7sVSnx-FO4wg4e9Q)
+- [工作七年后，我梳理了自己的产品工作流程](https://mp.weixin.qq.com/s/58fY_Z8Yj2YQjW5wrCyJ-g)
+- [权限体系设计 | 网易有数BI功能品鉴](https://mp.weixin.qq.com/s/HLABe1FtzzPfH17h5fxG3g)
+- [应用层数据安全管控实践—权限模型篇](https://mp.weixin.qq.com/s/pyF-H7BEmjyLNiF13tZ5oQ)
+- [数据安全第3期|阿里、腾讯数据安全治理简览](https://mp.weixin.qq.com/s/5Hv6d9BfRkya-VicreWs2A)
+- [数据安全第4期 | 数据安全中心建设思路分享](https://mp.weixin.qq.com/s/Flo8DkFk_89BK9SaNBuxyw)
+- [从数据蛮荒到数据中台，数据产品演进的5个阶段](https://mp.weixin.qq.com/s/c7g2Xo9foYKtC9S79P386A)
+- [深入解析SaaS产品的6种定价策略](https://mp.weixin.qq.com/s/7sXfHqZG6j5lIv2_IxqefA)
  
  
  ## 職涯
@@ -83,7 +102,17 @@
 - [那些厉害的人，都是怎么走出迷茫的？](https://mp.weixin.qq.com/s/c2DFgtRsdfOVCT2YsCmqPg)
 - [真正的高手，是如何判断趋势的？](https://mp.weixin.qq.com/s/VZGQ1jTwwIK-jmSPiSrf_w)
 - [15种方法让你在工作中变得不可或缺](https://mp.weixin.qq.com/s/UA2p-9EB5jP0jfAEKutuiQ)
-[为什么技术同学需要有更多的业务思考？](https://mp.weixin.qq.com/s/cbGjoI9HW0E1dKFIbGDQFw)
+- [为什么技术同学需要有更多的业务思考？](https://mp.weixin.qq.com/s/cbGjoI9HW0E1dKFIbGDQFw)
+- [一位互联网老兵的五次认知升级](https://mp.weixin.qq.com/s/i-e45K9-u_fbizWJ0adKhw)
+- [能力和职位，总有一个要走在前面](https://mp.weixin.qq.com/s/e2US2sYN2yg-zEytGcHw9Q)
+- [Facebook副总裁：给近百人做职业辅导，我发现了职业跃迁的秘密](https://mp.weixin.qq.com/s/DWTAj4cCvAldTV2eBPk8IQ)
+- [认真读完，助你月薪2W到3W（系列之一）](https://mp.weixin.qq.com/s/2SsE_GQpm04zneG64d4s0A)
+- [认真读完，助你月薪2W到3W（系列之二）](https://mp.weixin.qq.com/s/Wv3kahQGAeBZdPvVafwc5Q)
+- [认真读完，助你月薪2W到3W（系列之三）](https://mp.weixin.qq.com/s/7rnWW4QpYn-lXNScKLJOXg)
+- [工作 10 年后转行程序员，如今 35+ 岁并不焦虑！](https://mp.weixin.qq.com/s/hlTBU1UX590q67w4rK7AOQ)
+- [陆奇最新演讲：2021年，程序员们应该如何提升自我？](https://mp.weixin.qq.com/s/EEKHkLZTrp6SE3G7xQXb)EA
+- [全面认识数据产品经理](https://mp.weixin.qq.com/s/asVS1Aj8AOK32zcFUX5TJA)
+
 
 
 ## 互聯網人物誌
