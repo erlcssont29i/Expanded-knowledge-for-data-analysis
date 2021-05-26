@@ -113,8 +113,8 @@ update time | comment
 - [工作 10 年后转行程序员，如今 35+ 岁并不焦虑！](https://mp.weixin.qq.com/s/hlTBU1UX590q67w4rK7AOQ)
 - [陆奇最新演讲：2021年，程序员们应该如何提升自我？](https://mp.weixin.qq.com/s/EEKHkLZTrp6SE3G7xQXb)EA
 - [全面认识数据产品经理](https://mp.weixin.qq.com/s/asVS1Aj8AOK32zcFUX5TJA)
-- [我30岁当上高管的秘诀：可能是向上管理做得好](https://mp.weixin.qq.com/s/29o_bjvWJICB-goaRyn-UA)
 - [从2K到大厂Offer，外包数仓逆袭需贵人相助！](https://mp.weixin.qq.com/s/rUU55LWjJe524G9_bX785g)
+- [【必读】我如何做面试官](https://mp.weixin.qq.com/s/Rf8H0fkprtYm2WzvJ8piBw)
 
 
 
